@@ -1,0 +1,43 @@
+{
+  "versionCode": 2,
+  "versionName": "1.1",
+  "apk": "https://raw.githubusercontent.com/kgzin001/dlb-releases/main/DBL%20Pocket/DBL.apk",
+  "notes": [
+    {
+      "versionCode": 2,
+      "versionName": "1.1",
+      "date": "2026-10-29",
+      "summary": "O app agora se chama só **DBL**, **se atualiza pelo GitHub** e acompanha as novidades do DBL do computador.",
+      "items": [
+        {
+          "title": "Atualizações automáticas",
+          "text": "O DBL procura versões novas ao abrir, baixa o APK e abre o instalador do Android. Na aba **Mais** tem **Procurar atualizações** e **Notas de atualização**."
+        },
+        {
+          "title": "Números que fazem sentido",
+          "text": "**Jogados** mostra os jogos diferentes, com registros e rejogadas. **Para jogar** separa nunca jogados e para rejogar. Igual ao perfil do PC."
+        },
+        {
+          "title": "Jogados por ano: pelo menos 10 anos",
+          "text": "Na aba Números, o gráfico mostra no mínimo os últimos 10 anos, inclusive os anos sem nenhum jogo terminado."
+        },
+        {
+          "title": "Colecionador e plataformas: só possuídos",
+          "text": "Novo bloco **Colecionador de jogos**, com jogos possuídos e em mídia física. **Plataformas** conta só os possuídos; toque numa plataforma para ver os jogos dela."
+        },
+        {
+          "title": "Platinas e atividade recente",
+          "text": "Toque em **Platinas** para abrir os platinados na Biblioteca. O Início mostra até 8 platinados e **Jogados recentemente** segue o filtro \"Jogados mais recentemente\" (inclui dropados)."
+        },
+        {
+          "title": "Desfazer exclusão",
+          "text": "Depois de excluir um jogo aparece **Desfazer** por alguns segundos."
+        },
+        {
+          "title": "Jogo de referência na busca da IGDB",
+          "text": "O resultado que você tocou fica destacado como **Referência — em uso**."
+        }
+      ]
+    }
+  ]
+}
